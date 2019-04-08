@@ -1,0 +1,23 @@
+{
+  "name": "dummy-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btkruppa/node-dummy-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btkruppa/node-dummy-api/issues"
+  },
+  "homepage": "https://github.com/btkruppa/node-dummy-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
